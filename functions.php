@@ -1,5 +1,5 @@
 /* Copy and paste this code on your functions.php (theme file)
-Remember to edit 'your_field_name' at line 33, with your real ACF Select field name!!
+Remember to edit 'your_field_name' at line 32, with your real ACF Select field name!!
 
 By setting the return value of your ACF field to 'value', you'll be able to get the shortcode working easily with the code:
 $shortcode = get_field('your_field_name');
